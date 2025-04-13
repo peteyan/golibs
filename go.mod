@@ -1,6 +1,6 @@
 module github.com/peteyan/golibs
 
-go 1.23.0
+go 1.24
 
 require (
 	github.com/emmansun/gmsm v0.30.0
